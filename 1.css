@@ -3,6 +3,10 @@
 	margin: 0;
 	border: none;
 }
+.head{
+	font-size: 30px;
+	text-align: center;
+}
 .asd{padding: 20px 520px;}
 .title{
 	padding: 20px;
